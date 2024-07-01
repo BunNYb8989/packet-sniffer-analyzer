@@ -57,3 +57,12 @@ print("Starting packet sniffer...")
 sniff(prn=packet_callback, store=0)
 
 ```
+# output 
+
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="output.png" height="60%" width="60%"/>
+<br/>
+<br/>
+</p>
